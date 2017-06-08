@@ -13,3 +13,6 @@ TFS 2017 Installation on server Guide
       - Analysis Services
       - Reporting Services–Native
     -On the Server Configuration page you need to set all the services to automatically start.
+
+
+[embed]http://example.com/file.pdf[/embed]
