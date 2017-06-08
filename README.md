@@ -15,8 +15,8 @@ TFS 2017 Installation on server Guide
     -On the Server Configuration page you need to set all the services to automatically start.
 
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]benday-tfs2017-install-guide-v1.1.pdf[/embed]
 
-[Project Presentation](files/project-presentation.pdf "Project Presentation PDF")
+[Project Presentation](benday-tfs2017-install-guide-v1.1.pdf"Project Presentation PDF")
 
-[[/images/path/to/image.ext|ALT TEXT]]
+[[/benday-tfs2017-install-guide-v1.1.pdf|ALT TEXT]]
