@@ -18,3 +18,5 @@ TFS 2017 Installation on server Guide
 [embed]http://example.com/file.pdf[/embed]
 
 [Project Presentation](files/project-presentation.pdf "Project Presentation PDF")
+
+[[/images/path/to/image.ext|ALT TEXT]]
